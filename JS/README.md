@@ -14,7 +14,7 @@ You will be given the January 2023 exam as a sample exam. Unlike then, exam 23-2
 
 **Start the exam**
 
-* You can also download the assignment bundle you already have on paper as [PDF (DUTCH)](opgave-januari-2023).
+* You can also download the assignment bundle you already have on paper as [PDF](assignment-january-2023.pdf).
 * You can download the zip file with starter code [here](startcode_students).
 * The assignment refers to 2 movies that give you an idea of the result to be achieved: [questions123.mov](questions123.mov) and [question4.mov](question4.mov).
 
